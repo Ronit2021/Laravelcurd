@@ -1,0 +1,5 @@
+.carousel.slide .carousel-control-next span, .carousel.slide .carousel-control-prev span {
+    background-color: #000 !important;
+    width: 3rem;
+    height: 3rem;
+}
